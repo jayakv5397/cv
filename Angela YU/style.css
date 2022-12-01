@@ -1,0 +1,13 @@
+html,body{
+    margin: 0%;
+    padding: 0%
+}
+
+#pic{
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+table{
+    cellspacing: 10px;
+}
