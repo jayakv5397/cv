@@ -3,20 +3,24 @@ html,body{
     padding: 0%
     
 }
+
 body{
     background-color:#D6E4E5;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #pic{
     border-radius: 50%;
     object-fit: cover;
+    margin-top: 5%;
 }
 
 hr{
     border-style: none;
     border-top-style: dotted;
     /* background-color: white; */
-    border-color: grey;
+    border-color: #59C1BD;
     border-width: 5px;
     width: 5%;
 }
@@ -24,4 +28,13 @@ hr{
 h1,h2,h3{
     
     color: #497174;
+    font-family: 'Volkhov', serif;
+}
+
+.center{
+    display: inline-block;
+}
+
+.left{
+    text-align: left;
 }
